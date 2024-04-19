@@ -24,15 +24,15 @@
 
 .cabecalho-lista-item a{
     text-decoration: none;
-    color:#b61084;
+    color:#050505;
 }
 
 a:hover {
-    color: #ba09dd;
+    color: #0defff;
 }
 
 a:active{
-    color: rgb(202, 71, 235);
+    color: rgb(29, 243, 243);
 
 }
 
@@ -43,7 +43,7 @@ a:active{
 }
 
 .escola{
-    background-image:linear-gradient( #fafafa, #8c00ff94) ;
+    background-image:linear-gradient( #fafafa, #15ccfa94) ;
     color: rgb(29, 26, 31);
     display: flex;
     justify-content: center;
